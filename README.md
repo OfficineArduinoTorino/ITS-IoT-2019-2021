@@ -88,4 +88,6 @@ Abbiamo:
 * [Slide Dashboard](https://github.com/OfficineArduinoTorino/ITS-Torino-2016
 )
 
-“Test” omnicomprensivo della dashboard
+“Test” omnicomprensivo della dashboard → [flow](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/dashboard.json)
+
+![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/dashboard.jpg)
