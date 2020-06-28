@@ -5,7 +5,7 @@ Corso di IoT tenuto presso l'ITS-ICT di Torino.
 
 Take me to [pookie](#pookie)
 
-
+![](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
 
 
 ## My paragraph title
