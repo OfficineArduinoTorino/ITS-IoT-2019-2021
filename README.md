@@ -48,3 +48,22 @@ Alcuni temi tratatti nella plennary introduttiva
 Prima chiamata ad una API, quella di [Madbob per GTT](https://gpa.madbob.org/). Flow [qui](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/madbob.json).
 
 ![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/madbob.jpg)
+
+### <a name="lez3"></a>Lezione 3 API
+
+An application programming interface (API) is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees.[1] An API can be entirely custom, specific to a component, or it can be designed based on an industry standard to ensure interoperability. Some APIs have to be documented, others are designed so that they can be "interrogated" to determine supported functionality. Since other components/systems rely only on the API, the system that provides the API can (ideally) change its internal details "behind" that API without affecting its users.
+
+Source: https://en.wikipedia.org/wiki/Application_programming_interface
+
+* [Magic](https://api.magicthegathering.io/v1/cards)
+* [API Ryanair](https://developer.ryanair.com/discount-api/apis/get/3/discounts
+)
+* [Trenitalia](https://www.lefrecce.it/msite/api/solutions?origin=MILANO%20CENTRALE&destination=ROMA%20TERMINI&arflag=A&adate=20/12/2019&atime=17&adultno=1&childno=0&direction=A&frecce=false&onlyRegional=false
+)
+* [Le frecce](https://www.lefrecce.it/msite/api/geolocations/locations?name=%5BINIZIALE%5D)
+* [API VALUTOMETRI](https://api.borsinopro.it/api-valutometri.html
+)
+* [OPEN WEATHERMAP](https://openweathermap.org/
+api.openweathermap.org/data/2.5/weather?q={city name}&appid=15c9b19a8e4d2f9570a497c5f49d0541
+)
+* [QR code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example): cambia example con il dato
