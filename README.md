@@ -72,3 +72,20 @@ Parsiamo un json usando [jsonata](https://jsonata.org/)
 
 ### [OpenWeather Map APi example](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/openweathermap.json)
 ![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/openweathermap.jpg)
+
+### <a name="lez4"></a>Lezione 4 Dashboard
+
+Reddit ci guarda!
+https://www.reddit.com/r/ItalyInformatica/comments/el9xzf/api_e_basi_di_dati_interessanti_della_nostra_cara/
+
+Abbiamo:
+* [installato Node Red](https://nodered.org/docs/getting-started/windows
+) sui nostri computer virtuali
+* Abbiamo creato un account su github.com
+* Abbiamo scaricato github desktop ([link al corso del 2016](https://github.com/OfficineArduinoTorino/ITS-Torino-2016
+))
+* Alternative a Github https://about.gitlab.com/
+* [Slide Dashboard](https://github.com/OfficineArduinoTorino/ITS-Torino-2016
+)
+
+“Test” omnicomprensivo della dashboard
