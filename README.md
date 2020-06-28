@@ -203,5 +203,18 @@ https://it.wikipedia.org/wiki/Insegnamento_capovolto
 
 * [Installazione SQLite](https://www.youtube.com/watch?v=wXEZZ2JT3-k)
 * [Node-Red Storing IOT data In a SQL Database
-](https://www.youtube.com/watch?v=d8eeNROMTv0) flow [qui](http://www.steves-internet-guide.com/download/store-iot-data-in-sqlite-database/)
-* [nodi avanzati](https://www.youtube.com/watch?v=bovIZtgL68E&list=PLKYvTRORAnx6a9tETvF95o35mykuysuOw&index=3) flow [qui]
+](https://www.youtube.com/watch?v=d8eeNROMTv0) flow → [qui](http://www.steves-internet-guide.com/download/store-iot-data-in-sqlite-database/)
+* [nodi avanzati](https://www.youtube.com/watch?v=bovIZtgL68E&list=PLKYvTRORAnx6a9tETvF95o35mykuysuOw&index=3) flow → [qui](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/advanced-nodes.json)
+
+### <a name="lez10"></a>Lezione 10
+
+link vari:
+* https://builders.mozilla.community/springlab/index.html
+* https://docs.google.com/d🧧#CovidCreativesToolkit 🧧ocument/u/1/d/1iNPPgHO1bQFTey3U4G6LZ4pjb05iM0AyLGYA1We6W5c/mobilebasic?pli=1
+* https://the-politics-of-covid-19.com/search/?size=n_30_n
+* https://twitter.com/evgenymorozov
+* https://en.wikipedia.org/wiki/Teledildonics
+
+[slide lezione di oggi](https://docs.google.com/presentation/d/1GUsTC3KX0XQWJwTXbGSkv77btxqk9KHbiMvU6rcu8VE/edit#slide=id.g7283c3c763_0_127)
+
+https://www.sqlitetutorial.net/sqlite-sample-database/
