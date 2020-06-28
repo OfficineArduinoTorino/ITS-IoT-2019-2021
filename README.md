@@ -63,7 +63,12 @@ Source: https://en.wikipedia.org/wiki/Application_programming_interface
 * [Le frecce](https://www.lefrecce.it/msite/api/geolocations/locations?name=%5BINIZIALE%5D)
 * [API VALUTOMETRI](https://api.borsinopro.it/api-valutometri.html
 )
-* [OPEN WEATHERMAP](https://openweathermap.org/
-api.openweathermap.org/data/2.5/weather?q={city name}&appid=15c9b19a8e4d2f9570a497c5f49d0541
+* [OPEN WEATHERMAP](https://openweathermap.org/)
+  + api.openweathermap.org/data/2.5/weather?q={city name}&appid={api token}
 )
 * [QR code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example): cambia example con il dato
+
+Parsiamo un json usando [jsonata](https://jsonata.org/)
+
+### [OpenWeather Map APi example](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/openweathermap.json)
+![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/openweathermap.jpg)
