@@ -33,15 +33,18 @@ La teoria delle pietre!
 
 ### <a name="lez2"></a>Lezione 2
 
-Design Fiction and Ethical Things → http://www.simonerebaudengo.com/project/ethicalthings
-Il Turco Meccanico → https://en.wikipedia.org/wiki/The_Turk
-Il servizio di amazon → https://www.mturk.com/
+Alcuni temi tratatti nella plennary introduttiva
+* Design Fiction and Ethical Things → http://www.simonerebaudengo.com/project/ethicalthings
+* Il Turco Meccanico → https://en.wikipedia.org/wiki/The_Turk
+* Il servizio di amazon → https://www.mturk.com/
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FgHsmW1ItL3qFDT2JB5qwaSHaRRY%3D%2F16x15%3A586x395%2F1200x800%2Ffilters%3Afocal(16x15%3A586x395)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F44273352%2FTuerkischer_schachspieler_windisch4.0.0.jpg&f=1&nofb=1)
 
 * Le slide di oggi sono [qui](https://docs.google.com/presentation/d/1Qne9nm0K6w9GlWtO4VBmqTo1pW4Y4vOILFlhFwAxFUk/edit#slide=id.p)
 * Nodo Function by Steve Cope [Using the Node-Red Function Node - Beginners Guide](http://www.steves-internet-guide.com/node-red-functions/)
 * Algoritmi di [PID](https://it.wikipedia.org/wiki/Controllo_PID)
 * Come si fanno a fare i casting (cambiare una stringa in un numero o viceversa)? https://discourse.nodered.org/t/string-to-number/988
 
-Prima chiamata ad una API, quella di [Madbob per GTT](https://gpa.madbob.org/). Flow [qui](../madbob.json).
+Prima chiamata ad una API, quella di [Madbob per GTT](https://gpa.madbob.org/). Flow [qui](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/madbob.json).
 
-![](../img/madbob.jpg)
+![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/madbob.jpg)
