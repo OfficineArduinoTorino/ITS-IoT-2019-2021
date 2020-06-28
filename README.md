@@ -91,3 +91,19 @@ Abbiamo:
 “Test” omnicomprensivo della dashboard → [flow](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/dashboard.json)
 
 ![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/dashboard.jpg)
+
+### <a name="lez5"></a>Lezione 5 HTTP request
+
+[Slide](https://docs.google.com/presentation/d/1ddfUe1JQnyBodSQE_kUE52xVkypsvLtywHwXT7ai86g/edit#slide=id.p).
+Varie ed eventuali by Davide Prima SC di Davide:
+https://webkay.robinlinus.com/
+
+### <a name="lez6"></a>Lezione 6 HTTP request
+
+Slide Lezione precedente.
+
+Link e varie:
+* [Infografica Cororavirus](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+* [Javascript e Node-RED - Tutorials](https://notenoughtech.com/home-automation/nodered-home-automation/nodered-for-beginners-6/)
+* [Tutorial Javascript](https://javascript.info/)
+* [Altri tutorial Javascript](https://www.codecademy.com/catalog/language/javascript)
