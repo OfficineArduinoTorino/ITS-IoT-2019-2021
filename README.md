@@ -218,3 +218,52 @@ link vari:
 [slide lezione di oggi](https://docs.google.com/presentation/d/1GUsTC3KX0XQWJwTXbGSkv77btxqk9KHbiMvU6rcu8VE/edit#slide=id.g7283c3c763_0_127)
 
 https://www.sqlitetutorial.net/sqlite-sample-database/
+
+link al flow → [qui](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/ui_db.json)
+![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/ui_db.PNG)
+
+### Esercitazione
+Dovete andare [qua](https://github.com/OfficineArduinoTorino/ITS-IoT-2019-2021/wiki/Esercitazioni
+) e completare la parte che vi é stata assegnata
+
+### <a name="lez11"></a>Lezione 11
+
+http://red-bot.io/
+
+### Lecture di Guido Bellomo
+
+* http://red-bot.io/
+* https://chatfuel.com/
+* https://dialogflow.com/
+
+* Intent &  training
+* NLP → Natural Language Processing
+* https://github.com/axa-group/nlp.js?utm_source=gold_browser_extension
+
+* Utterance = Espressioni della stessa frase
+
+* Il training genera un modello
+
+#### Concetti di usabilità  
+L’utente potrebbe essere un po’ spaesato. Non lasciare l’utente mai una risposta o senza una direzione su cui deve fare. Ad ogni risposta dai sempre un informazione sul passaggio successivo
+
+Alcuni chatbot chiedono dati. UX non lineare
+
+Non usare mai un tono robotico
+
+#### Pagamenti
+* Telegram
+* Facebook to be arriving
+* Facebook Messenger
+* Whatsapp [Storia Brasiliana](https://medium.com/@AlfredBaudisch/how-a-whatsapp-bot-got-famous-and-evolved-as-the-brazilian-wechat-and-conversational-commerce-e2213262183d
+)
+
+→ il flow di Guidone
+
+### <a name="lez12"></a>Lezione 12
+
+Link alle [slide](https://docs.google.com/presentation/d/1vOs3JQey6fQjYjwepzydUlLBuPa5Yh0T-FClut7s9gk/edit#slide=id.g747d9f4b5f_0_55)
+
+### <a name="lez13"></a>Lezione 13
+
+[“Projects”, Databases, Sensors, Bots, 🤯 ](https://docs.google.com/presentation/d/1LAmQOUgF34HA49EyXyRgnJauH0NL9NKQle5SpYKd_Ak/edit#slide=id.p)
