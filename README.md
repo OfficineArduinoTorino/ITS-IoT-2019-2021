@@ -4,14 +4,14 @@ Corso di IoT tenuto presso l'ITS-ICT di Torino.
 Take me to [pookie](#pookie)
 ### <a name="pookie"></a>Some heading
 
-
-[Lezione 1](#lez1)
-[Lezione 2](#lez2)
-[Lezione 3](#lez3)
-[Lezione 4](#lez4)
-[Lezione 5](#lez5)
-[Lezione 6](#lez6)
-[Lezione 7](#lez7)
+Lezioni:
+* [Lezione 1](#lez1)  
+* [Lezione 2](#lez2)  
+* [Lezione 3](#lez3)  
+* [Lezione 4](#lez4)  
+* [Lezione 5](#lez5)  
+* [Lezione 6](#lez6)  
+* [Lezione 7](#lez7)  
 
 
 ### <a name="lez1"></a>Lezione 1
@@ -42,4 +42,6 @@ Il servizio di amazon → https://www.mturk.com/
 * Algoritmi di [PID](https://it.wikipedia.org/wiki/Controllo_PID)
 * Come si fanno a fare i casting (cambiare una stringa in un numero o viceversa)? https://discourse.nodered.org/t/string-to-number/988
 
-Prima chiamata ad una API, quella di [Madbob per GTT](https://gpa.madbob.org/)
+Prima chiamata ad una API, quella di [Madbob per GTT](https://gpa.madbob.org/). Flow [qui](../madbob.json).
+
+![](../img/madbob.jpg)
