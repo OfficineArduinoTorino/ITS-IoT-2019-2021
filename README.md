@@ -107,3 +107,31 @@ Link e varie:
 * [Javascript e Node-RED - Tutorials](https://notenoughtech.com/home-automation/nodered-home-automation/nodered-for-beginners-6/)
 * [Tutorial Javascript](https://javascript.info/)
 * [Altri tutorial Javascript](https://www.codecademy.com/catalog/language/javascript)
+
+(fare riferimento alla lezione)
+![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/api_addizione.PNG
+
+[Flow usato](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/api.json), qui di seguito alcune soluzioni dei compagni
+
+La funzione di Riccardo (vers. 1)
+
+```Javascript
+x = 0;
+y = 0;
+
+x = msg.req.query.val1;
+y = msg.req.query.val2;
+
+
+var total = parseInt(x) + parseInt(y);
+
+
+var msg1 = { payload:x };
+var msg2 = { payload:y };
+msg.payload = total;
+
+
+return [msg, msg1, msg2];
+
+}
+```
