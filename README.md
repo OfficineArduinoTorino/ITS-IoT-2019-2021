@@ -109,7 +109,7 @@ Link e varie:
 * [Altri tutorial Javascript](https://www.codecademy.com/catalog/language/javascript)
 
 (fare riferimento alla lezione)
-![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/api_addizione.PNG
+![](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/img/api_addizione.PNG)
 
 [Flow usato](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/api.json), qui di seguito alcune soluzioni dei compagni
 
@@ -135,3 +135,73 @@ return [msg, msg1, msg2];
 
 }
 ```
+La funzione di Gianpaolo (un solo output)
+
+```Javascript
+x = 0;
+y = 0;
+
+x = msg.req.query.val1;
+y = msg.req.query.val2;
+
+
+var total = parseInt(x) + parseInt(y);
+
+
+x=x.toString();
+y=y.toString();
+msg.payload = {total,x,y};
+
+
+return msg;
+
+```
+
+Calcolo del tempo mancante e aggiunta nell’array
+
+```Javascript
+// definisco una variabile tempo, ci passo il tempo datomi da simple time
+var time = msg.mytime;
+
+// splitto minuti e ore
+var hour = time.split(":")[0];
+var min = time.split(":")[1];
+
+
+for (var i = 0; i < msg.payload.length; i++){
+
+	var bus_min = msg.payload[i].hour.split(":")[1];
+	var bus_hour = msg.payload[i].hour.split(":")[0];
+
+	var delta_min = parseInt(bus_min) - parseInt(min);
+	var delta_hour = parseInt(bus_hour) - parseInt(hour);
+
+	msg.payload[i].ETA = delta_hour * 60 + delta_min;
+}
+return msg;
+
+```
+
+### <a name="lez7"></a>Lezione 7
+
+SC iniziale per parlare un po':
+[Berlin artist uses 99 phones to trick Google into traffic jam alert](https://www.theguardian.com/technology/2020/feb/03/berlin-artist-uses-99-phones-trick-google-maps-traffic-jam-alert)
+[link alle slides](https://www.theguardian.com/technology/2020/feb/03/berlin-artist-uses-99-phones-trick-google-maps-traffic-jam-alert)
+
+### <a name="lez8"></a>Lezione 8
+
+Iscriversi e fare (almeno) tutto il corso Basic Javascript di Freecodecamp.org (primo pezzo di “Javascript Algorithms and data Structures”)
+
+https://www.freecodecamp.org/learn
+
+### <a name="lez9"></a>Lezione 9
+
+[Lampada Philips Hackerata](### <a name="lez8"></a>Lezione 8
+)
+[Slide: REST vs MQTT](https://docs.google.com/presentation/d/1JJfIOieeW-i4tcFvv8gb9dkrZZMkwvsttVugREIzl84/edit)
+https://it.wikipedia.org/wiki/Insegnamento_capovolto
+
+* [Installazione SQLite](https://www.youtube.com/watch?v=wXEZZ2JT3-k)
+* [Node-Red Storing IOT data In a SQL Database
+](https://www.youtube.com/watch?v=d8eeNROMTv0) flow [qui](http://www.steves-internet-guide.com/download/store-iot-data-in-sqlite-database/)
+* [nodi avanzati](https://www.youtube.com/watch?v=bovIZtgL68E&list=PLKYvTRORAnx6a9tETvF95o35mykuysuOw&index=3) flow [qui]
