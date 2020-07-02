@@ -8,7 +8,13 @@ Lezioni:
 * [Lezione 4](#lez4)  
 * [Lezione 5](#lez5)  
 * [Lezione 6](#lez6)  
-* [Lezione 7](#lez7)  
+* [Lezione 7](#lez7)
+* [Lezione 8](#lez8)   
+* [Lezione 9](#lez9)   
+* [Lezione 10](#lez10)   
+* [Lezione 11](#lez11)   
+* [Lezione 12](#lez12)   
+* [Lezione 13](#lez13)   
 
 
 ### <a name="lez1"></a>Lezione 1
