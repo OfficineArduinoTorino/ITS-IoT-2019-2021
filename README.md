@@ -1,9 +1,6 @@
 # ITS-IoT-2019-2021
 Corso di IoT tenuto presso l'ITS-ICT di Torino.
 
-Take me to [pookie](#pookie)
-### <a name="pookie"></a>Some heading
-
 Lezioni:
 * [Lezione 1](#lez1)  
 * [Lezione 2](#lez2)  
@@ -94,8 +91,8 @@ Abbiamo:
 
 ### <a name="lez5"></a>Lezione 5 HTTP request
 
-[Slide](https://docs.google.com/presentation/d/1ddfUe1JQnyBodSQE_kUE52xVkypsvLtywHwXT7ai86g/edit#slide=id.p).
-Varie ed eventuali by Davide Prima SC di Davide:
+* [Slide](https://docs.google.com/presentation/d/1ddfUe1JQnyBodSQE_kUE52xVkypsvLtywHwXT7ai86g/edit#slide=id.p).  
+* Varie ed eventuali by Davide Prima SC di Davide:
 https://webkay.robinlinus.com/
 
 ### <a name="lez6"></a>Lezione 6 HTTP request
@@ -184,9 +181,9 @@ return msg;
 
 ### <a name="lez7"></a>Lezione 7
 
-SC iniziale per parlare un po':
-[Berlin artist uses 99 phones to trick Google into traffic jam alert](https://www.theguardian.com/technology/2020/feb/03/berlin-artist-uses-99-phones-trick-google-maps-traffic-jam-alert)
-[link alle slides](https://www.theguardian.com/technology/2020/feb/03/berlin-artist-uses-99-phones-trick-google-maps-traffic-jam-alert)
+Temi iniziali per parlare un po', link alle slides:
+* [Berlin artist uses 99 phones to trick Google into traffic jam alert](https://www.theguardian.com/technology/2020/feb/03/berlin-artist-uses-99-phones-trick-google-maps-traffic-jam-alert)
+* [link alle slides](https://www.theguardian.com/technology/2020/feb/03/berlin-artist-uses-99-phones-trick-google-maps-traffic-jam-alert)
 
 ### <a name="lez8"></a>Lezione 8
 
@@ -258,7 +255,7 @@ Non usare mai un tono robotico
 * Whatsapp [Storia Brasiliana](https://medium.com/@AlfredBaudisch/how-a-whatsapp-bot-got-famous-and-evolved-as-the-brazilian-wechat-and-conversational-commerce-e2213262183d
 )
 
-→ il flow di Guidone
+→ il [flow](https://raw.githubusercontent.com/OfficineArduinoTorino/ITS-IoT-2019-2021/master/guidone.json) di Guidone
 
 ### <a name="lez12"></a>Lezione 12
 
